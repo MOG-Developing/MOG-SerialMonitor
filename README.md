@@ -4,7 +4,7 @@
 
 __You can use it for your ESP and LOT development devices (it actually works with every device or microcontroller that appears as a com port).__
 
-*Requirements: Python 3.11 or 3.11.9 (or any higher ones)
+*Requirements: Python 3.11 or 3.11.9 (or any higher ones)*
 
 **required libraries: pip install customtkinter pyserial threading**
 _every library it uses: tkinter, threading, os, json, datetime, pyserial, serial, serial.tools.list_ports_
